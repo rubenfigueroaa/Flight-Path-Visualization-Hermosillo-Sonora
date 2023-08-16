@@ -1,0 +1,1 @@
+Flight Path Vizualition using Simulated Flight Data with coordenas from the GeoDatos website of latitude, longitude and altitude conditions of Hermosillo, Sonora, México. First it includes a 2d plot, then a 3d plot, and finally a scatter plot with color mapping in order to interpret different altitude values in this simulation
